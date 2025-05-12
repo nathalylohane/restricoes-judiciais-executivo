@@ -30,7 +30,7 @@ Apesar de limitações no modelo final, os testes apontam evidências suficiente
 
 ---
 
-## 👩🏽‍💻 Autoras e autores
+## Autoras
 
 - Nathaly Oliveira  
 - Julia Rensi  
